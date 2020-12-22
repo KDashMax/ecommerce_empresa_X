@@ -1,5 +1,5 @@
 # E-commerce_empresa_X
-Este é um e-commerce para a empresa X, uashuashusah
+Este é um **e-commerce** para a *empresa X*, uashuashusah
 
 ## Funcionalidades
 
