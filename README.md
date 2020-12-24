@@ -33,6 +33,6 @@ __Melhoria 1__, _melhoria 2_
 
 ![Logo among us](img/sla.ico)
 
-#### Imagem externar
+#### Imagem externa
 
 ![Logo PHP](https://www.php.net//images/logos/new-php-logo.svg)
