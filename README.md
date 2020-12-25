@@ -42,3 +42,5 @@ __Melhoria 1__, _melhoria 2_
 [Google](https://www.google.com.br/)
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contribuidor Principal: https://github.com/KDashMax
