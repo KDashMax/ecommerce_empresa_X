@@ -46,3 +46,12 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor Principal: https://github.com/KDashMax
 
 [![Logo do PHP](https://www.php.net//images/logos/new-php-logo.svg)](https://github.com/KDashMax)
+
+## Código da função soma
+
+```javascript
+function soma(a, b){
+    return a + b;
+}
+
+```
