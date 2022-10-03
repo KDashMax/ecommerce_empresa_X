@@ -1,5 +1,7 @@
+<a name="ancora"></a>
 # E-commerce_empresa_X
 Este é um **e-commerce** para a *empresa X*, uashuashusah
+
 
 ## Funcionalidades
 
@@ -61,3 +63,6 @@ function soma(a, b){
 - [ ] Integração com outros pagamentos
 - [ ] Sistema de bônus 
 - [x] CSS do rodapé
+
+
+<br>[🔝 Voltar ao topo](#ancora) <br>
